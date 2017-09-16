@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28c2ab</color>
+    <color name="colorPrimaryDark">#28c2ab</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="QrBlackColor">#000000</color>
+    <color name="QrWhiteColor">#ffffff</color>
+    <color name="normal">#7388ed</color>
+    <color name="pressed">#a6e1de</color>
+</resources>
